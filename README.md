@@ -17,6 +17,3 @@ func main() {
 	fmt.Printf("BCD: %x", bcd.FromUint32(11223344))
 }
 ```
-
-## Documentation
-For more documentation see [package documentation](https://godoc.org/github.com/albenik/bcd)
