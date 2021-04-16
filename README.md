@@ -9,7 +9,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/albenik/bcd"
+	"github.com/johnsonjh/gobcd"
 )
 
 func main() {
