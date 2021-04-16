@@ -52,6 +52,7 @@ var uint16data = []uint16testdata{
 	{[]byte{0x09, 0x99}, 999},
 	{[]byte{0x99, 0x99}, 9999},
 }
+
 var uint16data_special_from = []uint16testdata{
 	// Hi order digits dropped below
 	{[]byte{0x00, 0x00}, 10000},
@@ -79,6 +80,7 @@ var uint32data = []uint32testdata{
 	{[]byte{0x09, 0x99, 0x99, 0x99}, 9999999},
 	{[]byte{0x99, 0x99, 0x99, 0x99}, 99999999},
 }
+
 var uint32data_special_from = []uint32testdata{
 	// Hi order digits dropped below
 	{[]byte{0x00, 0x00, 0x00, 0x00}, 100000000},
@@ -120,6 +122,7 @@ var uint64data = []uint64testdata{
 	{[]byte{0x09, 0x99, 0x99, 0x99, 0x99, 0x99, 0x99, 0x99}, 999999999999999},
 	{[]byte{0x99, 0x99, 0x99, 0x99, 0x99, 0x99, 0x99, 0x99}, 9999999999999999},
 }
+
 var uint64data_special_from = []uint64testdata{
 	// Hi order digits dropped below
 	{[]byte{0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00}, 10000000000000000},
