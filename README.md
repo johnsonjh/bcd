@@ -1,4 +1,6 @@
-# bcd
+# gobcd
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/4852dc942d96595e8d9b/maintainability)](https://codeclimate.com/github/johnsonjh/gobcd/maintainability)
 
 Go implementation of BCD conversion functions
 
