@@ -4,7 +4,8 @@ go 1.17
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
-	github.com/johnsonjh/leaktestfe v0.0.0-20210508225121-8eb1ff631186
+	github.com/johnsonjh/leaktestfe v0.0.0-20210512013957-c81770ce31d0
+	github.com/kr/pretty v0.2.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/stretchr/objx v0.3.1-0.20210208113821-6c797d85514c // indirect
