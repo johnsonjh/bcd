@@ -2,7 +2,7 @@ module github.com/johnsonjh/gobcd
 
 go 1.17
 
-require github.com/stretchr/testify v1.8.2-0.20221102114659-1333b5d3bda8
+require github.com/stretchr/testify v1.8.2
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
